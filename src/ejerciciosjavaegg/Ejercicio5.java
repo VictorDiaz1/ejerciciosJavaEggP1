@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Ejercicio5 {
 
-    /*Escribir un programa que lea un número entero por teclado y muestre por pantalla el
-      doble, el triple y la raíz cuadrada de ese número. Nota: investigar la función Math.sqrt().*/
+// Escribir un programa que lea un número entero por teclado y muestre por pantalla el
+// doble, el triple y la raíz cuadrada de ese número. Nota: investigar la función Math.sqrt().
     public static void main(String[] args) {
 
         System.out.println("Ingrese un numero:");
