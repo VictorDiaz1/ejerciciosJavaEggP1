@@ -2,7 +2,7 @@ package ejerciciosjavaegg;
 
 import java.util.Scanner;
 
-public class Ejercicio5 {
+public class Ejercicio5P1 {
 
 // Escribir un programa que lea un número entero por teclado y muestre por pantalla el
 // doble, el triple y la raíz cuadrada de ese número. Nota: investigar la función Math.sqrt().

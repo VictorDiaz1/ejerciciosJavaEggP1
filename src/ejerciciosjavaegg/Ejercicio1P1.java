@@ -2,7 +2,7 @@ package ejerciciosjavaegg;
 
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ejercicio1P1 {
 
 //  Escribir un programa que pida dos números enteros
 //  por teclado y calcule la suma de los

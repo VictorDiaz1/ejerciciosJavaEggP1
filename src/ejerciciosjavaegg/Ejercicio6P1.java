@@ -2,7 +2,7 @@ package ejerciciosjavaegg;
 
 import java.util.Scanner;
 
-public class Ejercicio6 {
+public class Ejercicio6P1 {
     //Crear un programa que dado un numero determine si es par o impar
     public static void main(String[] args) {
         System.out.println("Ingrese un numero:");

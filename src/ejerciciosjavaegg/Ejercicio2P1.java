@@ -2,7 +2,7 @@ package ejerciciosjavaegg;
 
 import java.util.Scanner;
 
-public class Ejercicio2 {
+public class Ejercicio2P1 {
 
 // Escribir un programa que pida tu nombre, lo guarde en una variable y lo muestre por
 // pantalla.
