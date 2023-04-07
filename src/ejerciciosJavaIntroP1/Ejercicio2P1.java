@@ -1,4 +1,4 @@
-package ejerciciosjavaegg;
+package ejerciciosJavaIntroP1;
 
 import java.util.Scanner;
 
