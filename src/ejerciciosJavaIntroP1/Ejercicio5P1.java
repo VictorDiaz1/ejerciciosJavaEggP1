@@ -22,7 +22,12 @@ public class Ejercicio5P1 {
         System.out.println("Entero menor mas cercano: " + Math.floor(num2));
         System.out.println("Menor de dos valores: " + Math.min(num2, num3));
         System.out.println("Mayor de dos valores: " + Math.max(num2, num3));
-        System.out.println("Primer numero elevado al segundo numero: " + Math.pow(num2, num3));
+        System.out.println("Primer numero elevado al segundo numero: " + Math.pow(num, num2));
+        System.out.println("Raiz " + Math.sqrt(num));
+        System.out.println("Numero PI" + Math.PI);
+        System.out.println("Incrementa en 1: " + Math.incrementExact(num));
+        System.out.println("Multiplica el numero por si mismo: " + Math.multiplyExact(num, num));
+        System.out.println("Cambia de signo el numero:" + Math.negateExact(num));
 
     }
 }
